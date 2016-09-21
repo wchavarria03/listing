@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 
-import Header from './header/Header';
+import Header from './Header';
 
 
 class MasterPage extends React.Component {
